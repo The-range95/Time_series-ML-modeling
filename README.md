@@ -1,5 +1,6 @@
-# Time_series-ML-modeling
-1. Forecasting data point
+# Time series modeling
+1. Forecasting data point -- Apply Basic models, ML models, AI models 
+   Assumptions, Model interpretation--purpous, Risk--system, model 
 2. pattern find with alarms
 3. predicting anomaly detection
 
